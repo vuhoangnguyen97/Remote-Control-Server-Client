@@ -1,0 +1,18 @@
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\bin\Debug\Control_Client_Srv.exe
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\bin\Debug\Control_Client_Srv.pdb
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.Form1.resources
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.Properties.Resources.resources
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.exe
+c:\users\phuong\documents\visual studio 2010\Projects\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.pdb
+C:\TH\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.exe
+C:\TH\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.pdb
+C:\TH\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.Form1.resources
+C:\TH\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.Properties.Resources.resources
+C:\TH\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.csproj.GenerateResource.Cache
+C:\TH\Control_Client_Srv\Control_Client_Srv\bin\Debug\Control_Client_Srv.exe
+C:\TH\Control_Client_Srv\Control_Client_Srv\bin\Debug\Control_Client_Srv.pdb
+F:\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.exe
+F:\Control_Client_Srv\Control_Client_Srv\obj\x86\Debug\Control_Client_Srv.pdb
